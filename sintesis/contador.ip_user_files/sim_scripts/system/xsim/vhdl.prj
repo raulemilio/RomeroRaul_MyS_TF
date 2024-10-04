@@ -1,0 +1,15 @@
+vhdl xil_defaultlib  \
+"../../../bd/system/ipshared/08f9/src/and_bit_component.vhd" \
+"../../../bd/system/ipshared/08f9/src/bcd_up_down_counter.vhd" \
+"../../../bd/system/ipshared/08f9/src/caracter_uart_detector.vhd" \
+"../../../bd/system/ipshared/08f9/src/counter.vhd" \
+"../../../bd/system/ipshared/08f9/hdl/counter_ip_v1_0_S_AXI.vhd" \
+"../../../bd/system/ipshared/08f9/src/enable_generator.vhd" \
+"../../../bd/system/ipshared/08f9/src/meta_harden.vhd" \
+"../../../bd/system/ipshared/08f9/hdl/counter_ip_v1_0.vhd" \
+"../../../bd/system/ip/system_counter_ip_0_0/sim/system_counter_ip_0_0.vhd" \
+"../../../bd/system/ip/system_rst_ps7_0_100M_0/sim/system_rst_ps7_0_100M_0.vhd" \
+"../../../bd/system/ip/system_vio_0_0/sim/system_vio_0_0.vhd" \
+"../../../bd/system/sim/system.vhd" \
+
+nosort

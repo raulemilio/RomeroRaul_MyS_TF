@@ -1,0 +1,97 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d//VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/frequency_divider/simulacion
+Eand_bit_component
+Z0 w1723303533
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 4
+Z3 d//VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/and_bit_component/simulacion
+Z4 8//VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/and_bit_component/fuentes/and_bit_component.vhd
+Z5 F//VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/and_bit_component/fuentes/and_bit_component.vhd
+l0
+L4 1
+V<IBQG5NmHfEdOj5Ug3<cM3
+!s100 lITm6nh0DF3MC;V0f0:Ta1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1723319333
+!i10b 1
+Z8 !s108 1723319332.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/and_bit_component/fuentes/and_bit_component.vhd|
+Z10 !s107 //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/and_bit_component/fuentes/and_bit_component.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aand_bit_component_arq
+R1
+R2
+DEx4 work 17 and_bit_component 0 22 <IBQG5NmHfEdOj5Ug3<cM3
+!i122 4
+l13
+L12 7
+VRHDDY[A<79g1ZD5TT3[YS1
+!s100 3i8V^9EN6:^1`cGjEGN[I1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eand_bit_component_tb
+Z13 w1723319324
+Z14 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z15 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+R1
+R2
+!i122 5
+R3
+Z16 8//VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/and_bit_component/fuentes/and_bit_component_tb.vhd
+Z17 F//VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/and_bit_component/fuentes/and_bit_component_tb.vhd
+l0
+L6 1
+V@2>KUD[3=Hn5R4MW1h=Oi3
+!s100 1QgcRGn6TZ==WdSC6lTgH0
+R6
+32
+R7
+!i10b 1
+Z18 !s108 1723319333.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/and_bit_component/fuentes/and_bit_component_tb.vhd|
+!s107 //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/and_bit_component/fuentes/and_bit_component_tb.vhd|
+!i113 1
+R11
+R12
+Aand_bit_component_tb_arq
+R14
+R15
+R1
+R2
+DEx4 work 20 and_bit_component_tb 0 22 @2>KUD[3=Hn5R4MW1h=Oi3
+!i122 5
+l25
+L9 29
+VTLbf?R_bBFia@Uea_4PiU1
+!s100 aH89TK9Qje6mhHz:m_ez70
+R6
+32
+R7
+!i10b 1
+R18
+R19
+Z20 !s107 //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/and_bit_component/fuentes/and_bit_component_tb.vhd|
+!i113 1
+R11
+R12

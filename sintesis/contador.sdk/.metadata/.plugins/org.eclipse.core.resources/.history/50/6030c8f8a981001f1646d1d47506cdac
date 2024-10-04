@@ -1,0 +1,58 @@
+#include "xparameters.h"
+#include "xil_io.h"
+#include "counter_ip.h"
+//====================================================
+// Comandos para trabajar con counter_ip "r", "a", "d", "p"
+// | COMANDO            | FORMATO         |
+// | reset              | r  | 114 | 0x72 |
+// | cuenta ascendente  | a  | 97  | 0x61 |
+// | cuenta descendente | d  | 100 | 0x64 |
+// | pausa              | p  | 112 | 0x70 |
+// | comando inválido   | x  | 120 | 0x78 |
+
+#define RESET_REG 		   0  // reset por registro
+#define AVAILABLE_DATA     1  // Dato disponible para ser leido
+#define NOT_AVAILABLE_DATA 0  // Dato no disponible
+
+#define RESET_COMAND 	   114 // reset de la cuenta por comando
+#define PAUSE              112 // pausa la cuenta
+#define ASC_COUNT          97  // habilitación y cuenta ascendente
+#define DES_COUNT          100 // habilitación y cuenta descendente
+#define INVALID_COMAND     120 // comando inválido
+
+int main (void) 
+{
+   int i = 0; // variable auxiliar
+   int data[5]={ASC_COUNT,DES_COUNT,PAUSE,ASC_COUNT,RESET_COMAND}; // secuencia de prueba
+	
+   xil_printf("-- Start of the Program Counter --\r\n");
+   // reset
+   COUNTER_IP_mWriteReg(XPAR_COUNTER_IP_0_S_AXI_BASEADDR,COUNTER_IP_S_AXI_SLV_REG0_OFFSET, RESET_REG);
+
+   while (1)
+   {
+	   if(i>5){
+		   i=0;
+	   }
+	   // dato disponible
+	   COUNTER_IP_mWriteReg(XPAR_COUNTER_IP_0_S_AXI_BASEADDR,COUNTER_IP_S_AXI_SLV_REG1_OFFSET, AVAILABLE_DATA);
+	   xil_printf("-- Dato disponible --\r\n");
+	   // carga de  dato
+	   COUNTER_IP_mWriteReg(XPAR_COUNTER_IP_0_S_AXI_BASEADDR,COUNTER_IP_S_AXI_SLV_REG2_OFFSET, data[i]);
+	   xil_printf("-- Comando --> %d\r\n", data[i]);
+	   // disponibilidad del dato por 2 segundos
+	   sleep(2000);
+	   // dato de entrada no disponible
+	   COUNTER_IP_mWriteReg(XPAR_COUNTER_IP_0_S_AXI_BASEADDR,COUNTER_IP_S_AXI_SLV_REG1_OFFSET, NOT_AVAILABLE_DATA);
+	   xil_printf("-- Dato no disponible --\r\n");
+	   //borrado dato de entrada
+	   COUNTER_IP_mWriteReg(XPAR_COUNTER_IP_0_S_AXI_BASEADDR,COUNTER_IP_S_AXI_SLV_REG2_OFFSET, INVALID_COMAND);
+	   xil_printf("-- Dato no disponible --\r\n");
+
+	   sleep(10000);
+	   i++;
+   }
+}
+
+
+

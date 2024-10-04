@@ -1,0 +1,219 @@
+# Compile of caracter_uart_detector.vhd was successful.
+# Compile of caracter_uart_detector_tb.vhd failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of caracter_uart_detector.vhd was successful.
+# Compile of caracter_uart_detector_tb.vhd failed with 4 errors.
+# 2 compiles, 1 failed with 4 errors.
+# Compile of caracter_uart_detector_tb.vhd failed with 4 errors.
+# Compile of caracter_uart_detector_tb.vhd failed with 2 errors.
+# Compile of caracter_uart_detector.vhd was successful.
+# Compile of caracter_uart_detector_tb.vhd failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of caracter_uart_detector.vhd was successful.
+# Compile of caracter_uart_detector_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.caracter_uart_detector_tb
+# vsim work.caracter_uart_detector_tb 
+# Start time: 18:36:12 on Aug 10,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.caracter_uart_detector_tb(caracter_uart_detector_arq)
+# Loading work.caracter_uart_detector(caracter_uart_detector_arq)
+add wave -position end  sim:/caracter_uart_detector_tb/clk_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/ena_o_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rst_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rst_o_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rx_data_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rx_valid_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/up_down_o_tb
+run
+# Compile of caracter_uart_detector.vhd was successful.
+# Compile of caracter_uart_detector_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.caracter_uart_detector_tb
+# End time: 18:40:07 on Aug 10,2024, Elapsed time: 0:03:55
+# Errors: 0, Warnings: 11
+# vsim work.caracter_uart_detector_tb 
+# Start time: 18:40:07 on Aug 10,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.caracter_uart_detector_tb(caracter_uart_detector_arq)
+# Loading work.caracter_uart_detector(caracter_uart_detector_arq)
+add wave -position end  sim:/caracter_uart_detector_tb/clk_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/ena_o_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rst_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rst_o_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rx_data_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rx_valid_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/up_down_o_tb
+run
+# Compile of caracter_uart_detector.vhd was successful.
+# Compile of caracter_uart_detector_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.caracter_uart_detector_tb
+# End time: 18:45:30 on Aug 10,2024, Elapsed time: 0:05:23
+# Errors: 0, Warnings: 2
+# vsim work.caracter_uart_detector_tb 
+# Start time: 18:45:30 on Aug 10,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.caracter_uart_detector_tb(caracter_uart_detector_arq)
+# Loading work.caracter_uart_detector(caracter_uart_detector_arq)
+add wave -position end  sim:/caracter_uart_detector_tb/clk_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/ena_o_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rst_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rst_o_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rx_data_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rx_valid_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/up_down_o_tb
+run
+run
+# Compile of caracter_uart_detector.vhd was successful.
+# Compile of caracter_uart_detector_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.caracter_uart_detector_tb
+# End time: 18:49:13 on Aug 10,2024, Elapsed time: 0:03:43
+# Errors: 0, Warnings: 2
+# vsim work.caracter_uart_detector_tb 
+# Start time: 18:49:13 on Aug 10,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.caracter_uart_detector_tb(caracter_uart_detector_arq)
+# Loading work.caracter_uart_detector(caracter_uart_detector_arq)
+add wave -position end  sim:/caracter_uart_detector_tb/clk_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/ena_o_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rst_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rst_o_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rx_data_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rx_valid_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/up_down_o_tb
+run
+run
+# Compile of caracter_uart_detector.vhd was successful.
+# Compile of caracter_uart_detector_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.caracter_uart_detector_tb
+# End time: 18:55:36 on Aug 10,2024, Elapsed time: 0:06:23
+# Errors: 0, Warnings: 2
+# vsim work.caracter_uart_detector_tb 
+# Start time: 18:55:36 on Aug 10,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.caracter_uart_detector_tb(caracter_uart_detector_arq)
+# Loading work.caracter_uart_detector(caracter_uart_detector_arq)
+add wave -position end  sim:/caracter_uart_detector_tb/clk_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/ena_o_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rst_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rst_o_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rx_data_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rx_valid_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/up_down_o_tb
+run
+# ** Fatal: (vsim-3483) Delay in signal assignment is not ascending.
+#    Time: 0 ps  Iteration: 0  Process: /caracter_uart_detector_tb/line__44 File: //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/caracter_uart_detector/fuentes/caracter_uart_detector_tb.vhd Line: 44
+# Fatal error in Architecture caracter_uart_detector_arq at //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/caracter_uart_detector/fuentes/caracter_uart_detector_tb.vhd line 44
+# 
+# HDL call sequence:
+# Stopped at //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/caracter_uart_detector/fuentes/caracter_uart_detector_tb.vhd 44 Architecture caracter_uart_detector_arq
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/caracter_uart_detector/fuentes/caracter_uart_detector_tb.vhd 44 Architecture caracter_uart_detector_arq
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/caracter_uart_detector/fuentes/caracter_uart_detector_tb.vhd 44 Architecture caracter_uart_detector_arq
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/caracter_uart_detector/fuentes/caracter_uart_detector_tb.vhd 44 Architecture caracter_uart_detector_arq
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/caracter_uart_detector/fuentes/caracter_uart_detector_tb.vhd 44 Architecture caracter_uart_detector_arq
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/caracter_uart_detector/fuentes/caracter_uart_detector_tb.vhd 44 Architecture caracter_uart_detector_arq
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/caracter_uart_detector/fuentes/caracter_uart_detector_tb.vhd 44 Architecture caracter_uart_detector_arq
+# 
+# Compile of caracter_uart_detector.vhd was successful.
+# Compile of caracter_uart_detector_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.caracter_uart_detector_tb
+# End time: 18:56:49 on Aug 10,2024, Elapsed time: 0:01:13
+# Errors: 1, Warnings: 2
+# vsim work.caracter_uart_detector_tb 
+# Start time: 18:56:49 on Aug 10,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.caracter_uart_detector_tb(caracter_uart_detector_arq)
+# Loading work.caracter_uart_detector(caracter_uart_detector_arq)
+add wave -position end  sim:/caracter_uart_detector_tb/clk_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/ena_o_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rst_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rst_o_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rx_data_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rx_valid_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/up_down_o_tb
+run
+# ** Fatal: (vsim-3483) Delay in signal assignment is not ascending.
+#    Time: 0 ps  Iteration: 0  Process: /caracter_uart_detector_tb/line__44 File: //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/caracter_uart_detector/fuentes/caracter_uart_detector_tb.vhd Line: 44
+# Fatal error in Architecture caracter_uart_detector_arq at //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/caracter_uart_detector/fuentes/caracter_uart_detector_tb.vhd line 44
+# 
+# HDL call sequence:
+# Stopped at //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/caracter_uart_detector/fuentes/caracter_uart_detector_tb.vhd 44 Architecture caracter_uart_detector_arq
+# 
+# Compile of caracter_uart_detector.vhd was successful.
+# Compile of caracter_uart_detector_tb.vhd was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.caracter_uart_detector_tb
+# End time: 18:57:47 on Aug 10,2024, Elapsed time: 0:00:58
+# Errors: 1, Warnings: 2
+# vsim work.caracter_uart_detector_tb 
+# Start time: 18:57:47 on Aug 10,2024
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.caracter_uart_detector_tb(caracter_uart_detector_arq)
+# Loading work.caracter_uart_detector(caracter_uart_detector_arq)
+add wave -position end  sim:/caracter_uart_detector_tb/clk_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/ena_o_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rst_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rst_o_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rx_data_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/rx_valid_i_tb
+add wave -position end  sim:/caracter_uart_detector_tb/up_down_o_tb
+run
+run
+# End time: 19:22:21 on Aug 10,2024, Elapsed time: 0:24:34
+# Errors: 0, Warnings: 1

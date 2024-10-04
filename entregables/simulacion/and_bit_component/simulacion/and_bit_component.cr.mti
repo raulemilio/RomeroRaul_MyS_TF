@@ -1,0 +1,19 @@
+//VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/and_bit_component/fuentes/and_bit_component.vhd {1 {vcom -work work -2002 -explicit -stats=none //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/and_bit_component/fuentes/and_bit_component.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_bit_component
+-- Compiling architecture and_bit_component_arq of and_bit_component
+
+} {} {}} //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/and_bit_component/fuentes/and_bit_component_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/and_bit_component/fuentes/and_bit_component_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity and_bit_component_tb
+-- Compiling architecture and_bit_component_tb_arq of and_bit_component_tb
+
+} {} {}}

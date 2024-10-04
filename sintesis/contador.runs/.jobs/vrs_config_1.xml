@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="system_processing_system7_0_0_synth_1" LaunchDir="/home/rome/Escritorio/cese/cursos/5B/MYS/proyectos/contador/sintesis/contador.runs/system_processing_system7_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_counter_ip_0_0_synth_1" LaunchDir="/home/rome/Escritorio/cese/cursos/5B/MYS/proyectos/contador/sintesis/contador.runs/system_counter_ip_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_auto_pc_0_synth_1" LaunchDir="/home/rome/Escritorio/cese/cursos/5B/MYS/proyectos/contador/sintesis/contador.runs/system_auto_pc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_rst_ps7_0_100M_0_synth_1" LaunchDir="/home/rome/Escritorio/cese/cursos/5B/MYS/proyectos/contador/sintesis/contador.runs/system_rst_ps7_0_100M_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_vio_0_0_synth_1" LaunchDir="/home/rome/Escritorio/cese/cursos/5B/MYS/proyectos/contador/sintesis/contador.runs/system_vio_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+

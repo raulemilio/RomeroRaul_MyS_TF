@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:36:41 MST 2018
+# 
+# Start of session at: Thu Oct  3 14:19:52 2024
+# Process ID: 57428
+# Current directory: /home/rome/Escritorio/cese/cursos/5B/MYS/proyectos/contador/sintesis/contador.sdk/webtalk
+# Command line: wbtcv -mode batch -source sdk_webtalk.tcl
+# Log file: /home/rome/Escritorio/cese/cursos/5B/MYS/proyectos/contador/sintesis/contador.sdk/webtalk/webtalk.log
+# Journal file: /home/rome/Escritorio/cese/cursos/5B/MYS/proyectos/contador/sintesis/contador.sdk/webtalk/webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

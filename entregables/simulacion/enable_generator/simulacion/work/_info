@@ -1,0 +1,101 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+Eenable_generator
+Z0 w1723323831
+Z1 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 4
+Z5 d//VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/enable_generator/simulacion
+Z6 8//VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/enable_generator/fuentes/enable_generator.vhd
+Z7 F//VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/enable_generator/fuentes/enable_generator.vhd
+l0
+L6 1
+Vn1j9U^R7Q4BWamOUl4VC90
+!s100 :iFNTAPi?VjdbjYl>=2C52
+Z8 OV;C;2020.1;71
+32
+Z9 !s110 1723323864
+!i10b 1
+Z10 !s108 1723323864.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/enable_generator/fuentes/enable_generator.vhd|
+Z12 !s107 //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/enable_generator/fuentes/enable_generator.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Aenable_generator_arq
+R1
+R2
+R3
+R4
+DEx4 work 16 enable_generator 0 22 n1j9U^R7Q4BWamOUl4VC90
+!i122 4
+l18
+L14 23
+VJkk6Sf=noDM5iHK;kM=280
+!s100 :TV9C8hKZKdTOgTEUI4nZ0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Eenable_generator_tb
+Z15 w1723323859
+R1
+R2
+R3
+R4
+!i122 5
+R5
+Z16 8//VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/enable_generator/fuentes/enable_generator_tb.vhd
+Z17 F//VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/enable_generator/fuentes/enable_generator_tb.vhd
+l0
+L6 1
+V4ZR><B4=fRH2PC`9O=Wfn1
+!s100 ]P]HmImD>Hl7SCbP_DJhg2
+R8
+32
+Z18 !s110 1723323865
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/enable_generator/fuentes/enable_generator_tb.vhd|
+!s107 //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/enable_generator/fuentes/enable_generator_tb.vhd|
+!i113 1
+R13
+R14
+Aenable_generator_tb_arq
+R1
+R2
+R3
+R4
+DEx4 work 19 enable_generator_tb 0 22 4ZR><B4=fRH2PC`9O=Wfn1
+!i122 5
+l26
+L9 30
+V^dkjSK?ez>YaEZ3E9=40j1
+!s100 FJnEA;ONdJ5KIJFIW7LHE3
+R8
+32
+R18
+!i10b 1
+R10
+R19
+Z20 !s107 //VBOXSVR/rome/Escritorio/cese/cursos/4B/CLP/proyectosVivado/enable_generator/fuentes/enable_generator_tb.vhd|
+!i113 1
+R13
+R14
